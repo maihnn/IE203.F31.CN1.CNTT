@@ -18,7 +18,7 @@
 ## Thành viên nhóm
 
 | STT | Họ và tên | MSSV |
-|:--:|---|:---:|---|
+|:---:|---|:---:|
 | 1 | Vũ Thị Mỹ Hoàng | 24730098 |
 | 2 | Huỳnh Ngọc Như Mai | 24730113 | 
 | 3 | Hồ Tống Như Quỳnh | 24730137 | 
