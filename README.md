@@ -8,7 +8,7 @@
 
 | Hạng mục                 | Nội dung                                                                               |
 | :----------------------- | :------------------------------------------------------------------------------------- |
-| **Đề tài**               | Phân tích hệ thống quản trị quy trình nghiệp vụ tại Trung tâm Tiêm chủng FPT Long Châu |
+| **Đề tài**               | Hệ thống quản trị quy trình nghiệp vụ Trung tâm Tiêm chủng FPT Long Châu               |
 | **Giảng viên hướng dẫn** | ThS. Hà Lê Hoài Trung                                                                  |
 | **Năm học**              | 2026                                                                                   |
 
@@ -31,8 +31,6 @@
 | **Soạn thảo báo cáo** | LaTeX (Overleaf / TeXstudio) |
 | **Định dạng báo cáo** | PDF                          |
 | **Thuyết trình**      | Microsoft PowerPoint         |
-| **Quản lý phiên bản** | GitHub                       |
-| **Thiết kế các sơ đồ**    |                      |
 
 ---
 
@@ -42,15 +40,10 @@ Nhóm áp dụng GitHub để quản lý toàn bộ quá trình thực hiện đ
 
 * Mỗi thành viên làm việc trên **branch** riêng.
 * Hợp nhất thay đổi khi hoàn thành thông qua **Pull Request**.
-* Đánh giá mức độ đóng góp dựa trên **Commit History**, **Pull Requests** và **Repository Insights**.
 
 ---
 
-## Cấu trúc thư mục
+## Sản phẩm hoàn thành
 
-```text
-.
-```
-
----
-
+* **Báo cáo:** [`Report_ver01.pdf`](./Report_ver01.pdf)
+* **Slide thuyết trình:** [`slide_thuyettrinh.pdf`](./slide_thuyettrinh.pdf)
